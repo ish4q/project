@@ -1,0 +1,6 @@
+public static void main(String[] args)
+{
+Scanner input = new Scanner(system.in);
+System.out.println("Check if student has passed or fail:");
+Int input = input.nextInt();
+}
